@@ -1,0 +1,5 @@
+Gene: CYP19A1
+NCBI Gene ID: 1588
+NCBI RefSeq Protein: NP_000094.2
+UniProt: P11511
+PDB: 5JL9
